@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobsonMaxsuel
-- 👀 I’m interested in aprender sobre programação.
-- 🌱 I’m currently learning sobre PHP e Python. 
-- 💞️ I’m looking to collaborate on projetos e duvidas.
+- 👀 I’m interested in SBDB.
+- 🌱 I’m currently learning Python and SQL. 
 - 📫 How to reach me RobsonMaxsuel
 
 <!---
