@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobsonMaxsuel
-- 👀 I’m interested in SBDB.
+- 👀 I’m interested in Database.
 - 🌱 I’m currently learning Python and SQL. 
 - 📫 How to reach me RobsonMaxsuel
 
